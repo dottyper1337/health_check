@@ -8,5 +8,6 @@ def main():
   if check_reboot():
     print("pending reboot")
     sys.exit(1)
+    print("done")
 
 main()
