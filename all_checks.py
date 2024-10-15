@@ -9,5 +9,6 @@ def main():
     print("pending reboot")
     sys.exit(1)
     print("done")
-
+  print("everything is ok koxu")
+  sys.exit(0)
 main()
